@@ -5,5 +5,4 @@ Obviously make sure you don't have anything you should keep in these files befor
 
 `Usage : .\BlenderSaveCleaning.ps1 <path to folder to be cleaned> <force>`
 
-^This script is provided "as is" and without any guarantees.
-^Verify files before deletion, and back up important data. The author is not responsible for any unintended data loss.
+This script is provided "as is" and without any guarantees. Verify files before deletion, and back up important data. The author is not responsible for any unintended data loss.
